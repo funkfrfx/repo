@@ -3,7 +3,7 @@
   "Name": "Mpreg Sync",
   "InternalName": "MareSynchronos",
   "AssemblyVersion": "0.8.35.0",
-  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+  "Description": "This plugin will mpreg you.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/funkfrfx/client",
   "Tags": [
