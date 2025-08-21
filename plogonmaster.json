@@ -2,7 +2,7 @@
     {
         "Author": "Funk sucks at coding",
         "Name": "Mpreg Sync",
-        "InternalName": "MareSynchronos",
+        "InternalName": "MpregSync",
         "AssemblyVersion": "0.11.22",
         "Description": "This plugin will mpreg you.",
         "ApplicableVersion": "any",
