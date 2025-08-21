@@ -14,7 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/funkfrfx/repo/blob/main/MareSynchronos/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/funkfrfx/repo/refs/heads/main/MareSynchronos/images/icon.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }
