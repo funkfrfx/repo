@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/funkfrfx/repo/blob/main/MareSynchronos/releases/0.11.22.zip",
-        "DownloadLinkTesting": "https://github.com/funkfrfx/repo/blob/main/MareSynchronos/releases/0.11.22.zip",
-        "DownloadLinkUpdate": "https://github.com/funkfrfx/repo/blob/main/MareSynchronos/releases/0.11.22.zip"
+        "DownloadLinkInstall": "https://github.com/funkfrfx/repo/raw/refs/heads/main/MareSynchronos/0.11.22.zip",
+        "DownloadLinkTesting": "https://github.com/funkfrfx/repo/raw/refs/heads/main/MareSynchronos/0.11.22.zip",
+        "DownloadLinkUpdate": "https://github.com/funkfrfx/repo/raw/refs/heads/main/MareSynchronos/0.11.22.zip"
       }
 ]
